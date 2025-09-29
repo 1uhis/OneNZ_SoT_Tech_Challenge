@@ -4,6 +4,9 @@ This is a prototype built for the Summer of Tech 2026 technical challenge.
 It demonstrates a **responsive event floor plan** that allows students to quickly locate their applied roles and navigate the event efficiently.
 
 **🔗 Live Demo:** [https://one-nz-so-t-tech-challenge.vercel.app/](https://one-nz-so-t-tech-challenge.vercel.app/)
+**Login Credentials:**  
+- Username: `test`  
+- Password: `test`
 
 ---
 
