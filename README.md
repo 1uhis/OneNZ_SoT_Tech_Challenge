@@ -16,7 +16,6 @@ git clone https://github.com/1uhis/OneNZ_SoT_Tech_Challenge.git
 2. Install dependencies:
 
 ```
-cd sot-2026-floorplan-prototype
 npm install
 ```
 
